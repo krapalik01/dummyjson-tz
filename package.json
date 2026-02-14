@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://krapalik01.github.io/dummyjson-tz",
+  "homepage": "https://krapalik01.github.io/dummyjson-tz/",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
